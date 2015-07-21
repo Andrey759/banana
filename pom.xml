@@ -8,9 +8,11 @@
     <artifactId>banana</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+
     <modules>
         <module>core</module>
+        <module>web</module>
+        <module>dist</module>
     </modules>
-
 
 </project>
